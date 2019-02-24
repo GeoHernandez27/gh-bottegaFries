@@ -45,7 +45,9 @@
 .features-section > .columns-wrapper {
     width: 1000px;
     display: flex;
-    justify-content: space-between;
+    align-self: center;
+    justify-content: space-evenly;
+
 }
 
 .features-section > .columns-wrapper > .column {
